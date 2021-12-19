@@ -1,0 +1,12 @@
+.forInput{
+  margin: 50px;
+}
+
+input{
+  padding: 15px 10px;
+  width: 350px;
+}
+
+.todoList{
+  margin: 0 50px;
+}
